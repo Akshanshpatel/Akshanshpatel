@@ -31,6 +31,7 @@
 
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> Familiar Tools and Languages
+<hr>
 
 <br>
 <!--tech stack icons-->
@@ -52,6 +53,7 @@
 
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Connect With me!
+ <hr>
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/aks-patel/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
