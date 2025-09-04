@@ -20,7 +20,7 @@
 
 - 🌱 I'm looking to collaborate on **Web-D Projects**
 
-- ☁️ I've keen interest in backend engineering. Ask me about **Express, Nodejs, Mongoose**
+<!--- ☁️ I've keen interest in backend engineering. Ask me about **Express, Nodejs, Mongoose**-->
 
 - 📫 Feel free to reach me out **akshanshpatel2038@gmail.com**
 
@@ -37,7 +37,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,prisma,express,figma,npm,github,html,java,js,md,mongodb,vite,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,express,npm,github,html,java,js,md,mongodb,vite,nextjs,nodejs,postman,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 <br>
